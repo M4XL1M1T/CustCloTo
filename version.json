@@ -1,5 +1,5 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "datum": "2026-11-04",
-  "hinweis": "Tattoo-Editor: Tattoos einfuegen, verschieben, drehen, skalieren und speichern; Zonen einklappbar"
+  "hinweis": "Tattoos aus der Charakter-XML werden automatisch angelegt"
 }
