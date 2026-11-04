@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "datum": "2026-11-04",
-  "hinweis": "Tattoos: Groesse, Lage und Drehung wie im Plebmasters-Forge-Editor, Sleeves reichen jetzt um den Arm"
+  "hinweis": "Neustart nach Updates ohne cmd (keine Defender-Warnung mehr), Browser oeffnen ueber explorer"
 }
