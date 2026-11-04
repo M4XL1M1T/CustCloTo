@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "datum": "2026-11-04",
-  "hinweis": "Server-Fenster nach dem Update wieder sichtbar"
+  "hinweis": "Tattoos: BC7-Texturen werden angezeigt, richtige Breite an Armen und Beinen, feine Linien bleiben sichtbar"
 }
