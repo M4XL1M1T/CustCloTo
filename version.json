@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "datum": "2026-11-04",
-  "hinweis": "Tattoos: BC7-Texturen werden angezeigt, richtige Breite an Armen und Beinen, feine Linien bleiben sichtbar"
+  "hinweis": "Tattoos: Groesse, Lage und Drehung wie im Plebmasters-Forge-Editor, Sleeves reichen jetzt um den Arm"
 }
