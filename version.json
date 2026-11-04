@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "datum": "2026-11-04",
-  "hinweis": "Update robuster: gesperrte Dateien (Virenscanner) werden abgewartet, sonst alles zurueckgesetzt"
+  "hinweis": "Neue Tattoos werden auch in PedDecalOverlays.xml (Menyoo-Tattoomenue) eingetragen"
 }
