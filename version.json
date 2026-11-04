@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "datum": "2026-11-04",
-  "hinweis": "MLO-Innenraeume aus .ytyp komplett anzeigen"
+  "hinweis": "Animations-Creator: neuer Haken \"Auf alle Frames\". Damit lässt sich ein Knochen in einer fertigen Animation auf allen Frames gleich verändern, zum Beispiel die Hüfte zur Seite schieben (Bein-IK an, dann bleiben die Füße stehen). Anleitung in LIESMICH.txt."
 }
