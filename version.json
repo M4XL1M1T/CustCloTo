@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "datum": "2026-11-04",
-  "hinweis": "Props: CodeWalker-XML-Modelle (.ydr.xml, .yft.xml) werden jetzt geladen, im Ordner Props, beim Hineinziehen und über \"Prop-Dateien wählen\". Die Texturen kommen aus den .dds im Ordner mit dem Modellnamen daneben."
+  "hinweis": "Animations-Creator: Bild als Vorlage. Unter \"Vorlage (Bild)\" ein Bild laden oder in die Ansicht ziehen. Es liegt halb durchsichtig über der Figur und lässt sich verschieben, vergrößern und spiegeln. Ohne \"Bild bewegen\" gehen Klicks durch das Bild auf die Figur."
 }
