@@ -1,5 +1,5 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "datum": "2026-11-04",
-  "hinweis": "Texturen einzeln loeschen, folgende Buchstaben ruecken nach"
+  "hinweis": "Tattoos sitzen jetzt in der richtigen Hoehe (wie im Spiel und in Forge)"
 }
