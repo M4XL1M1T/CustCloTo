@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "datum": "2026-11-04",
-  "hinweis": "Tattoos sitzen jetzt in der richtigen Hoehe (wie im Spiel und in Forge)"
+  "hinweis": "Tattoo-Editor: Tattoos einfuegen, verschieben, drehen, skalieren und speichern; Zonen einklappbar"
 }
