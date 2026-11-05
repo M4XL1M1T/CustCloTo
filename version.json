@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "datum": "2026-11-05",
-  "hinweis": "Neu: Design-Editor für Fahrzeuge. Im Feld Props beim Auto auf Design erstellen klicken: Bilder, Text, Formen und Pinsel auf einer automatisch erzeugten Vorlage der Karosserie, live am Auto zu sehen. YTD speichern legt die .ytd mit dem Design an, dazu Design- und Vorlage-PNG und eine Projektdatei."
+  "hinweis": "Design aus .ytd: Eine .ytd mit Design im Ordner Props zeigt das Auto jetzt sofort, im Props-Feld unter Folierung wählbar. Der Design-Editor übernimmt sie als unterste Ebene zum Weiterbearbeiten, auch über Aus .ytd oder per Hineinziehen."
 }
