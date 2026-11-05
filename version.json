@@ -1,5 +1,5 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "datum": "2026-11-05",
-  "hinweis": "FiveM Enhanced: Mod-Autos stürzen beim Spawnen nicht mehr ab (Vertex-Aufbau und Tacho-Textur werden angepasst)"
+  "hinweis": "Folierung nachrüsten und FiveM Enhanced: Fehler \"error in system length\" bei manchen Mod-Autos behoben (Glasbruch-Daten)"
 }
