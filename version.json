@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "datum": "2026-11-05",
-  "hinweis": "Standard-Charakter: Der geladene Charakter bleibt jetzt in der Auswahl stehen. Das Feld ist dann blau hervorgehoben, und in der Liste hat der Charakter einen Haken."
+  "hinweis": "Neues Menü Einstellungen: Ordner für Props, Animationen, XML-Chars, Tattoos und mehr festlegen. Animationen speichert der Creator jetzt direkt in den Animations-Ordner, mit grüner Meldung und Ordner öffnen. Neue Anordnung: Teile links, Figur-Box neben Detailstufe, oben Screenshot Erstellen, Darstellung und Hintergrund. Standard-Charakter heißt jetzt XML-Char Auswählen."
 }
