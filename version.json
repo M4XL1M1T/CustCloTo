@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "datum": "2026-11-05",
-  "hinweis": "FiveM für GTA V Enhanced: eigene Autos beim Speichern umwandeln (CodeWalker dev48 oder neuer in den Einstellungen eintragen)"
+  "hinweis": "Folierung nachrüsten für Autos ohne Livery (zum Beispiel vehicle_paint1); große Texturdateien über 16 MB werden richtig gelesen"
 }
