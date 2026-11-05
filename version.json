@@ -1,5 +1,5 @@
 {
   "version": "1.0.27",
   "datum": "2026-11-05",
-  "hinweis": ""
+  "hinweis": "Livery-Tuningteile: Autos, die ihre Liveries als eigene Tuningteile mitbringen (zum Beispiel rox_liv_1.yft in roxanne_mods.rpf), zeigen diese jetzt unter Folierung. Der Design-Editor übernimmt sie und speichert ein Design als neues oder ersetztes Livery-Teil, mit fertigem Eintrag für carcols.meta."
 }
