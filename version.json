@@ -1,5 +1,5 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "datum": "2026-11-05",
-  "hinweis": "Als neues Auto speichern: Im Props-Feld aus einem Fahrzeug (zum Beispiel dem Jugular) ein eigenes Add-on-Auto mit neuem Namen bauen, mit Folierung, als dlc.rpf für Singleplayer oder als FiveM-Resource. Dafür die vehicles.meta und carvariations.meta des Autos in den Ordner Props legen."
+  "hinweis": "Haupt-DLC: Bei Als neues Auto speichern kommen jetzt auf Wunsch alle deine Autos in ein gemeinsames Paket (Ordner Fahrzeug-DLC). Das Paket wird mit jedem Auto neu gebaut, einzelne Autos lassen sich wieder herausnehmen. Wahlweise weiter ein eigenes DLC je Auto."
 }
