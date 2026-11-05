@@ -1,5 +1,5 @@
 {
-  "version": "1.0.39",
+  "version": "1.0.40",
   "datum": "2026-11-05",
-  "hinweis": "Animations-Ersteller: Beim Verschieben des Beckens geht der Oberkörper mit, mit Bein-IK bleiben die Füße stehen (Figur in die Hocke ziehen)."
+  "hinweis": "Animations-Ersteller: Neu stellt die Figur wieder auf ihren Platz und setzt Name und Wörterbuch auf Standard zurück."
 }
