@@ -1,5 +1,5 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "datum": "2026-11-05",
-  "hinweis": "Folierung nachrüsten und FiveM Enhanced: Fehler \"error in system length\" bei manchen Mod-Autos behoben (Glasbruch-Daten)"
+  "hinweis": "Fahrzeug-Pakete: Tuning und Folierung der Autos erscheinen jetzt auch im Singleplayer (Kits werden vor den Varianten geladen)."
 }
