@@ -1,5 +1,5 @@
 {
-  "version": "1.0.38",
+  "version": "1.0.39",
   "datum": "2026-11-05",
-  "hinweis": "Fahrzeug-Pakete: Tuning und Folierung der Autos erscheinen jetzt auch im Singleplayer (Kits werden vor den Varianten geladen)."
+  "hinweis": "Animations-Ersteller: Beim Verschieben des Beckens geht der Oberkörper mit, mit Bein-IK bleiben die Füße stehen (Figur in die Hocke ziehen)."
 }
