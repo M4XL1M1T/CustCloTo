@@ -1,5 +1,5 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "datum": "2026-11-05",
-  "hinweis": "Folierung nachrüsten für Autos ohne Livery (zum Beispiel vehicle_paint1); große Texturdateien über 16 MB werden richtig gelesen"
+  "hinweis": "Neues Auto: Handling und eigene Layouts des Originals kommen mit (Add-on-Autos brauchen das Original nicht mehr), Anzeigename für FiveM"
 }
