@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "datum": "2026-11-05",
-  "hinweis": "Livery-Tuningteile: Autos, die ihre Liveries als eigene Tuningteile mitbringen (zum Beispiel rox_liv_1.yft in roxanne_mods.rpf), zeigen diese jetzt unter Folierung. Der Design-Editor übernimmt sie und speichert ein Design als neues oder ersetztes Livery-Teil, mit fertigem Eintrag für carcols.meta."
+  "hinweis": "Als neues Auto speichern: Im Props-Feld aus einem Fahrzeug (zum Beispiel dem Jugular) ein eigenes Add-on-Auto mit neuem Namen bauen, mit Folierung, als dlc.rpf für Singleplayer oder als FiveM-Resource. Dafür die vehicles.meta und carvariations.meta des Autos in den Ordner Props legen."
 }
