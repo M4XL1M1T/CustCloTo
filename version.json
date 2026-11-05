@@ -1,5 +1,5 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "datum": "2026-11-05",
-  "hinweis": "Neues Auto: eigenes Design als Folierung in der Tuningliste auch für Autos ohne Livery-Teile (eigenes Tuning-Kit)"
+  "hinweis": "FiveM Enhanced: Mod-Autos stürzen beim Spawnen nicht mehr ab (Vertex-Aufbau und Tacho-Textur werden angepasst)"
 }
