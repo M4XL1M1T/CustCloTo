@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "datum": "2026-11-06",
-  "hinweis": "Neu: Konverter für Sims-4-Objekte (.package) zu GTA-V-Props mit allen Farbvarianten und .ytyp. Braucht CodeWalker in den Einstellungen."
+  "hinweis": "Konverter: Sims-4-Objekte aus mehreren Teilen (z. B. Kratzbaum) werden jetzt richtig gelesen."
 }
