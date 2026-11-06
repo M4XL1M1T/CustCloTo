@@ -1,5 +1,5 @@
 {
-  "version": "1.0.41",
-  "datum": "2026-11-05",
-  "hinweis": "Animations-Ersteller: Punkte ausblenden (Taste H) blendet auch das Werkzeug am gewählten Knochen aus."
+  "version": "1.0.42",
+  "datum": "2026-11-06",
+  "hinweis": "Neu: Konverter für Sims-4-Objekte (.package) zu GTA-V-Props mit allen Farbvarianten und .ytyp. Braucht CodeWalker in den Einstellungen."
 }
