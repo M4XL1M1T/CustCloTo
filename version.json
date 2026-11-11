@@ -1,5 +1,5 @@
 {
-  "version": "1.0.44",
+  "version": "1.0.45",
   "datum": "2026-11-11",
-  "hinweis": "Neu: Animationsliste mit Editor, Props als eigener Bereich (Drag & Drop), 3D-Vorschau im Sims-4-Konverter, Blender-Bruecke und Anpassen an den Koerper (auch Hosen, alle Texturen)"
+  "hinweis": "Sims-Kleidung wird jetzt ueber den Sims-Koerper an den GTA-Koerper angepasst (glattere Kleider, Rollkragen, Armloecher), Anpassen-Editor folgt dem gewaehlten Teil, Blender-Bruecke korrigiert"
 }
