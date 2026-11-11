@@ -1,5 +1,5 @@
 {
-  "version": "1.0.43",
-  "datum": "2026-11-06",
-  "hinweis": "Konverter: Sims-4-Objekte aus mehreren Teilen (z. B. Kratzbaum) werden jetzt richtig gelesen."
+  "version": "1.0.44",
+  "datum": "2026-11-11",
+  "hinweis": "Neu: Animationsliste mit Editor, Props als eigener Bereich (Drag & Drop), 3D-Vorschau im Sims-4-Konverter, Blender-Bruecke und Anpassen an den Koerper (auch Hosen, alle Texturen)"
 }
