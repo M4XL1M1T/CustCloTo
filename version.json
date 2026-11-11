@@ -1,5 +1,5 @@
 {
-  "version": "1.0.47",
+  "version": "1.0.48",
   "datum": "2026-11-11",
-  "hinweis": "Korrektur: Feine Kleider mit Ausstanzungen (z. B. Gisele Denim Dress) bekommen keine zackigen Kanten und Splitter mehr am Bund, an der Brust und am Armloch"
+  "hinweis": "Neu im Sims-4-Konverter: Ausschnitte (z. B. V-Ausschnitt) werden entlang der durchsichtigen Texturkante geschnitten und sind glatt statt gezackt; die vom Konverter erzeugten Hautteile folgen im Viewer wieder dem Hautton"
 }
