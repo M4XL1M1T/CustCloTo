@@ -1,5 +1,5 @@
 {
-  "version": "1.0.46",
+  "version": "1.0.47",
   "datum": "2026-11-11",
-  "hinweis": "Korrektur: Der Sims-4-Konverter findet die Basisfigur jetzt auch ohne den Ordner programm/peds (Fehler Die Basisfigur fehlt)"
+  "hinweis": "Korrektur: Feine Kleider mit Ausstanzungen (z. B. Gisele Denim Dress) bekommen keine zackigen Kanten und Splitter mehr am Bund, an der Brust und am Armloch"
 }
